@@ -18,6 +18,7 @@ public class HelloClass {
   public static void main(String[] args) {
     HelloClass my = new HelloClass();
     BKokensparger BJK = new BKokensparger();
+    DTheis DJT = new DTheis();
  
   }
 }
@@ -28,3 +29,10 @@ class BKokensparger {
             + "I am your instructor for this course.");
   }
 } 
+class DTheis {
+  DTheis() {
+    System.out.println("Hi, I'm Dominic Theis and I am from Stillwater, MN. "
+            + "I am a senior graduating in may.");
+  }
+} 
+  
