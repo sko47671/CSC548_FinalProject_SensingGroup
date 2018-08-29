@@ -9,7 +9,6 @@ package helloclass;
  *
  * @author bkoken
  */
-
 public class HelloClass {
   HelloClass() {
     System.out.println("This application introduces the class.");
@@ -24,10 +23,12 @@ public class HelloClass {
     PJohnson PLJ = new PJohnson();
     EBaranowski EMB = new EBaranowski();
     SKoshy SMK = new SKoshy();
+    DLee DYL = new DLee();
   }
 }
- 
+
 class BKokensparger {
+
   BKokensparger() {
     System.out.println("Hi, I'm Brian Kokensparger, originally from Junction City, Ohio. "
             + "I am your instructor for this course.");
@@ -49,7 +50,6 @@ class CYu {
 }
 
 
-=======
 class RLabausa {
   RLabausa() {
     System.out.println("Hi, I'm Ruby Labausa. I am from Ewa Beach, Hawaii."
@@ -84,4 +84,11 @@ class EBaranowski {
 }
 
   
+class DLee {
 
+    DLee() {
+        System.out.println("Hi, I'm David Lee, originally from South Korea. "
+                + "I studied in India for four years in middle school");
+    }
+}
+  
