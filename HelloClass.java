@@ -21,6 +21,7 @@ public class HelloClass {
     RLabausa RTL = new RLabausa();
     DTheis DJT = new DTheis();
     PJohnson PLJ = new PJohnson();
+    EBaranowski EMB = new EBaranowski();
   }
 }
  
@@ -49,5 +50,12 @@ class PJohnson {
     System.out.println("Hi, I'm Parker Johnson, originally from Burnsville, MN. "
             + "I am NOT your instructor for this course.");
   }
-} 
+}
+class EBaranowski {
+  EBaranowski() {
+        System.out.println("Hi, I'm Emily Baranowski and I'm from Overland Park, KS "
+            + "I have no idea what I'm doing.");
+  }
+}
+
   
