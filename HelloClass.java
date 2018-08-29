@@ -18,6 +18,7 @@ public class HelloClass {
   public static void main(String[] args) {
     HelloClass my = new HelloClass();
     BKokensparger BJK = new BKokensparger();
+    RLabausa RTL = new RLabausa();
  
   }
 }
@@ -26,5 +27,11 @@ class BKokensparger {
   BKokensparger() {
     System.out.println("Hi, I'm Brian Kokensparger, originally from Junction City, Ohio. "
             + "I am your instructor for this course.");
+  }
+} 
+class RLabausa {
+  RLabausa() {
+    System.out.println("Hi, I'm Ruby Labausa. I am from Ewa Beach, Hawaii."
+            + "I am a student in this course.");
   }
 } 
