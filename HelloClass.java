@@ -26,6 +26,7 @@ class BKokensparger {
   BKokensparger() {
     System.out.println("Hi, I'm Brian Kokensparger, originally from Junction City, Ohio. "
             + "I am your instructor for this course.");
+    System.out.println("Oh yeah, I also went to Creighton University.");
   }
 } 
 
