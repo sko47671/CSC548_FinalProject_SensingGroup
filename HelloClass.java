@@ -21,6 +21,8 @@ public class HelloClass {
     RLabausa RTL = new RLabausa();
     DTheis DJT = new DTheis();
     PJohnson PLJ = new PJohnson();
+    SKoshy SMK = new SKoshy();
+
   }
 }
  
@@ -52,6 +54,11 @@ class DTheis {
   DTheis() {
     System.out.println("Hi, I'm Dominic Theis and I am from Stillwater, MN. "
             + "I am a senior graduating in may.");
+  }
+ class SKoshy {
+  SKoshy() {
+    System.out.println("Hi, I'm Sam Koshy and I am from Omaha, NE. "
+            + "I am a senior graduating in December.");
   }
 } 
 
