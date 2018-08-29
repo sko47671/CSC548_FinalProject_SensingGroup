@@ -32,6 +32,6 @@ class BKokensparger {
 class CYu {
   CYu() {
     System.out.println("Hi, I'm Catherine Yu, originally from Seoul, Korea. "
-            + "I am a senior.");
+            + "I am a senior .");
   }
 }
