@@ -18,6 +18,12 @@ public class HelloClass {
   public static void main(String[] args) {
     HelloClass my = new HelloClass();
     BKokensparger BJK = new BKokensparger();
+
+    DTheis DJT = new DTheis();
+ 
+    
+    
+    PJohnson
     PJohnson PLJ = new PJohnson();
   }
 }
@@ -29,9 +35,18 @@ class BKokensparger {
   }
 } 
 
+class DTheis {
+  DTheis() {
+    System.out.println("Hi, I'm Dominic Theis and I am from Stillwater, MN. "
+            + "I am a senior graduating in may.");
+  }
+} 
+PJohnson
+
 class PJohnson {
   PJohnson() {
     System.out.println("Hi, I'm Parker Johnson, originally from Burnsville, MN. "
             + "I am NOT your instructor for this course.");
   }
 } 
+  
