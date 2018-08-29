@@ -21,9 +21,9 @@ public class HelloClass {
     RLabausa RTL = new RLabausa();
     DTheis DJT = new DTheis();
     PJohnson PLJ = new PJohnson();
+    EBaranowski EMB = new EBaranowski();
     SKoshy SMK = new SKoshy();
     DLee DYL = new DLee();
-
   }
 }
 
@@ -38,6 +38,7 @@ class BKokensparger {
 class VLo {
    VLo() {
      System.out.println("Hi, I'm Victoria Lo, originally from Honolulu, Hawaii." + "I am a student in this course.");
+   }
 }
 
 
@@ -74,7 +75,14 @@ class PJohnson {
     System.out.println("Hi, I'm Parker Johnson, originally from Burnsville, MN. "
             + "I am NOT your instructor for this course.");
   }
-} 
+}
+class EBaranowski {
+  EBaranowski() {
+        System.out.println("Hi, I'm Emily Baranowski and I'm from Overland Park, KS "
+            + "I have no idea what I'm doing.");
+  }
+}
+
   
 class DLee {
 
