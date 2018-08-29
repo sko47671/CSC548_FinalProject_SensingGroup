@@ -18,6 +18,7 @@ public class HelloClass {
   public static void main(String[] args) {
     HelloClass my = new HelloClass();
     BKokensparger BJK = new BKokensparger();
+    LBell LWB = new LBell();
  
   }
 }
@@ -28,3 +29,9 @@ class BKokensparger {
             + "I am your instructor for this course.");
   }
 } 
+class LBell {
+  LBell() {
+    System.out.println("Hi, I'm Logan Bell, originally from Grand Island, Nebraska. " 
+                       + "I'm not your instructor for this course.")
+  }
+}
