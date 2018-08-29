@@ -20,10 +20,6 @@ public class HelloClass {
     BKokensparger BJK = new BKokensparger();
 
     DTheis DJT = new DTheis();
- 
-    
-    
-    PJohnson
     PJohnson PLJ = new PJohnson();
   }
 }
@@ -41,7 +37,7 @@ class DTheis {
             + "I am a senior graduating in may.");
   }
 } 
-PJohnson
+
 
 class PJohnson {
   PJohnson() {
