@@ -18,7 +18,7 @@ public class HelloClass {
     public static void main(String[] args) {
         HelloClass my = new HelloClass();
         BKokensparger BJK = new BKokensparger();
-        DLee DLee = new DLee();
+        DLee DYL = new DLee();
     }
 }
 
