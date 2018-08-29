@@ -21,6 +21,7 @@ public class HelloClass {
     RLabausa RTL = new RLabausa();
     DTheis DJT = new DTheis();
     PJohnson PLJ = new PJohnson();
+    LBell LWB = new LBell();
   }
 }
  
