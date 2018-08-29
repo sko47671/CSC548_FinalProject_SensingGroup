@@ -18,10 +18,12 @@ public class HelloClass {
   public static void main(String[] args) {
     HelloClass my = new HelloClass();
     BKokensparger BJK = new BKokensparger();
+    VLo VHL = new VLo(); 
     RLabausa RTL = new RLabausa();
     DTheis DJT = new DTheis();
     PJohnson PLJ = new PJohnson();
     EBaranowski EMB = new EBaranowski();
+    SKoshy SMK = new SKoshy();
   }
 }
  
@@ -31,16 +33,39 @@ class BKokensparger {
             + "I am your instructor for this course.");
   }
 } 
+
+class VLo {
+   VLo() {
+     System.out.println("Hi, I'm Victoria Lo, originally from Honolulu, Hawaii." + "I am a student in this course.");
+   }
+}
+
+
+class CYu {
+  CYu() {
+    System.out.println("Hi, I'm Catherine Yu, originally from Seoul, Korea. "
+            + "I am a senior .");
+  }
+}
+
+
+=======
 class RLabausa {
   RLabausa() {
     System.out.println("Hi, I'm Ruby Labausa. I am from Ewa Beach, Hawaii."
             + "I am a student in this course.");
   }
 } 
+
 class DTheis {
   DTheis() {
     System.out.println("Hi, I'm Dominic Theis and I am from Stillwater, MN. "
             + "I am a senior graduating in may.");
+  }
+ class SKoshy {
+  SKoshy() {
+    System.out.println("Hi, I'm Sam Koshy and I am from Omaha, NE. "
+            + "I am a senior graduating in December.");
   }
 } 
 
@@ -59,3 +84,4 @@ class EBaranowski {
 }
 
   
+
