@@ -30,12 +30,24 @@ class BKokensparger {
             + "I am your instructor for this course.");
   }
 } 
+
+
+class CYu {
+  CYu() {
+    System.out.println("Hi, I'm Catherine Yu, originally from Seoul, Korea. "
+            + "I am a senior .");
+  }
+}
+
+
+=======
 class RLabausa {
   RLabausa() {
     System.out.println("Hi, I'm Ruby Labausa. I am from Ewa Beach, Hawaii."
             + "I am a student in this course.");
   }
 } 
+
 class DTheis {
   DTheis() {
     System.out.println("Hi, I'm Dominic Theis and I am from Stillwater, MN. "
@@ -51,3 +63,4 @@ class PJohnson {
   }
 } 
   
+
