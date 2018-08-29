@@ -37,6 +37,7 @@ class BKokensparger {
 class VLo {
    VLo() {
      System.out.println("Hi, I'm Victoria Lo, originally from Honolulu, Hawaii." + "I am a student in this course.");
+   }
 }
 
 
