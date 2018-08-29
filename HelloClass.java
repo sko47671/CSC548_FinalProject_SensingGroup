@@ -28,3 +28,10 @@ class BKokensparger {
             + "I am your instructor for this course.");
   }
 } 
+
+class PJohnson {
+  BKokensparger() {
+    System.out.println("Hi, I'm Parker Johnson, originally from Burnsville, MN. "
+            + "I am NOT your instructor for this course.");
+  }
+} 
