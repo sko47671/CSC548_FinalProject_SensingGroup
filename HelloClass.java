@@ -61,6 +61,12 @@ class DTheis {
   }
 } 
 
+class LBell {
+  LBell() {
+    System.out.println("Hi, I'm Logan Bell. I am from Grand Island, Nebraska."
+            + "I am a student in this course.");
+  }
+} 
 
 class PJohnson {
   PJohnson() {
