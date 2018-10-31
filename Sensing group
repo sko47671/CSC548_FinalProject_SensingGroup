@@ -1,0 +1,8 @@
+•	Design the overall apparatus for the microbits and sensors
+•	Program the microbits to record acceleration, compass headings, motion and temperature.
+•	Design a suitable housing for the microbits that is tamper proof
+•	Protect the microbits from physical and cyber threats
+•	Insure that the microbits are sufficiently powered
+•	Set the sensing rate and resolution appropriate for the problem and the equipment
+•	Design power in the field to all devices that is feasible with available equipment and sustainable
+•	Properly design the study against biases and protect against spurious effects on the data (e.g., walking speed, going through buildings, stopping to talk during data collection, etc.)
